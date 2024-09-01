@@ -1,6 +1,6 @@
-[![Electron.NET Logo](https://github.com/ElectronNET/Electron.NET/raw/main/assets/images/electron.net-logo.png)](https://github.com/ElectronNET/Electron.NET)
+[![Electron.NET Logo](https://github.com/sendevman/Electron.NET/raw/main/assets/images/electron.net-logo.png)](https://github.com/sendevman/Electron.NET)
 
-[![donate](https://img.shields.io/badge/Donate-Donorbox-green.svg)](https://donorbox.org/electron-net) [![Gitter](https://badges.gitter.im/ElectronNET/community.svg)](https://gitter.im/ElectronNET/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build status](https://github.com/ElectronNET/Electron.NET/actions/workflows/ci.yml/badge.svg)](https://github.com/ElectronNET/Electron.NET/actions/workflows/ci.yml)
+[![donate](https://img.shields.io/badge/Donate-Donorbox-green.svg)](https://donorbox.org/electron-net) [![Gitter](https://badges.gitter.im/ElectronNET/community.svg)](https://gitter.im/ElectronNET/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build status](https://github.com/sendevman/Electron.NET/actions/workflows/ci.yml/badge.svg)](https://github.com/sendevman/Electron.NET/actions/workflows/ci.yml)
 
 Build cross platform desktop apps with .NET 8 and Blazor, ASP.NET Core (Razor Pages, MVC). 
 
@@ -28,7 +28,7 @@ Also you should have installed:
 
 [![Gitter](https://badges.gitter.im/ElectronNET/community.svg)](https://gitter.im/ElectronNET/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Besides the chat on Gitter and the issues [discussed here](https://github.com/ElectronNET/Electron.NET/issues) you can also use [StackOverflow](https://stackoverflow.com/questions/tagged/electron.net) with the tag `electron.net`.
+Besides the chat on Gitter and the issues [discussed here](https://github.com/sendevman/Electron.NET/issues) you can also use [StackOverflow](https://stackoverflow.com/questions/tagged/electron.net) with the tag `electron.net`.
 
 If you want to sponsor the further maintenance and development of this project [see the donate section](#🙏-donate).
 
@@ -141,7 +141,7 @@ Start your Electron.NET application with the Electron.NET CLI command. In Visual
 ## 📔 Usage of the Electron API
 
 A complete documentation will follow. Until then take a look in the source code of the sample application:  
-[Electron.NET API Demos](https://github.com/ElectronNET/electron.net-api-demos)  
+[Electron.NET API Demos](https://github.com/sendevman/Electron.NET-api-demos)  
 
 In this YouTube video, we show you how you can create a new project, use the Electron.NET API, debug a application and build an executable desktop app for Windows: [Electron.NET - Getting Started](https://www.youtube.com/watch?v=nuM6AojRFHk)  
   
@@ -189,11 +189,11 @@ dotnet tool update ElectronNET.CLI -g
 * **[Dr. Florian Rappl](https://github.com/FlorianRappl)** - Software Developer - from Munich, Germany. Microsoft MVP & Web Geek. - [The Art of Micro Frontends](https://microfrontends.art) - [Homepage](https://florian-rappl.de) - Twitter [@florianrappl](https://twitter.com/florianrappl)
 * **[Robert Muehsig](https://github.com/robertmuehsig)** - Software Developer - from Dresden, Germany, now living & working in Switzerland. Microsoft MVP & Web Geek. - [codeinside Blog](https://blog.codeinside.eu) - Twitter [@robert0muehsig](https://twitter.com/robert0muehsig)  
   
-See also the list of [contributors](https://github.com/ElectronNET/Electron.NET/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/sendevman/Electron.NET/graphs/contributors) who participated in this project.
   
 ## 🙋‍♀️🙋‍♂ Contributing
 
-Feel free to submit a pull request if you find any bugs (to see a list of active issues, visit the [Issues section](https://github.com/ElectronNET/Electron.NET/issues).
+Feel free to submit a pull request if you find any bugs (to see a list of active issues, visit the [Issues section](https://github.com/sendevman/Electron.NET/issues).
 Please make sure all commits are properly documented.
 
 ## 🧪 Working with this Repo
@@ -204,7 +204,7 @@ This repository consists of the main parts (API & CLI) and it's own "playground"
 
 If you look for pure __[demo projects](https://github.com/ElectronNET)__ checkout the other repositories. 
 
-The problem working with this repository is, that NuGet has a pretty aggressive cache, see [here for further information](https://github.com/ElectronNET/Electron.NET/wiki).
+The problem working with this repository is, that NuGet has a pretty aggressive cache, see [here for further information](https://github.com/sendevman/Electron.NET/wiki).
 
 ## 🙏 Donate
 

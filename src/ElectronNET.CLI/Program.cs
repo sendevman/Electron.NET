@@ -73,7 +73,7 @@ namespace ElectronNET.CLI
                 sb.Append($" ({version})");
             }
             Console.WriteLine(sb.ToString());
-            Console.WriteLine("Project Home: https://github.com/ElectronNET/Electron.NET");
+            Console.WriteLine("Project Home: https://github.com/sendevman/Electron.NET");
             Console.WriteLine("\t");
         }
 

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Electron-Host for Electron.NET.",
   "repository": {
-    "url": "https://github.com/ElectronNET/Electron.NET"
+    "url": "https://github.com/sendevman/Electron.NET"
   },
   "main": "main.js",
   "author": "Gregor Biswanger, Florian Rappl",

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Connector for Electron.NET projects.",
   "repository": {
-    "url": "https://github.com/ElectronNET/Electron.NET"
+    "url": "https://github.com/sendevman/Electron.NET"
   },
   "main": "index.js",
   "scripts": {

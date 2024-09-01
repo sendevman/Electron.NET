@@ -17,12 +17,12 @@
       This package contains the dotnet tooling to electronize your application.
     </Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/ElectronNET/Electron.NET/</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/ElectronNET/Electron.NET/</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/sendevman/Electron.NET/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sendevman/Electron.NET/</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <PackageTags>electron aspnetcore</PackageTags>
-    <PackageReleaseNotes>Changelog: https://github.com/ElectronNET/Electron.NET/blob/main/Changelog.md</PackageReleaseNotes>
+    <PackageReleaseNotes>Changelog: https://github.com/sendevman/Electron.NET/blob/main/Changelog.md</PackageReleaseNotes>
     <PackageIcon>PackageIcon.png</PackageIcon>
     <PackAsTool>true</PackAsTool>
     <PublishSelfContained>true</PublishSelfContained>
